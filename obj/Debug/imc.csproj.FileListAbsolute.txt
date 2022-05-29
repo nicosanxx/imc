@@ -1,0 +1,10 @@
+C:\Users\nico\source\repos\imc\bin\Debug\imc.exe.config
+C:\Users\nico\source\repos\imc\bin\Debug\imc.exe
+C:\Users\nico\source\repos\imc\bin\Debug\imc.pdb
+C:\Users\nico\source\repos\imc\obj\Debug\imc.csproj.AssemblyReference.cache
+C:\Users\nico\source\repos\imc\obj\Debug\imc.Form1.resources
+C:\Users\nico\source\repos\imc\obj\Debug\imc.Properties.Resources.resources
+C:\Users\nico\source\repos\imc\obj\Debug\imc.csproj.GenerateResource.cache
+C:\Users\nico\source\repos\imc\obj\Debug\imc.csproj.CoreCompileInputs.cache
+C:\Users\nico\source\repos\imc\obj\Debug\imc.exe
+C:\Users\nico\source\repos\imc\obj\Debug\imc.pdb
